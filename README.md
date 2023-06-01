@@ -1,4 +1,11 @@
 # WeddingFashion.Co
+
+The Store link with password for Preview:-
+
+link:-https://ladies-fashion2023.myshopify.com/
+
+Password:-Raju@1997
+
 This Shopify store features these major parts :-
 
 • The homepage serves as the starting point forthe users and provides an
